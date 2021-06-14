@@ -9,11 +9,11 @@ public class Data {
 
 		    //Create an object of File class to open xlsx file
 
-		    File file =    new File(filePath+"\\"+fileName);
+		    File file1 =    new File(filePath+"\\"+fileName);
 
 		    //Create an object of FileInputStream class to read excel file
 
-		    FileInputStream inputStream = new FileInputStream(file);
+		    FileInputStream inputStream = new FileInputStream(file1);
 
 		    Workbook guru99Workbook = null;
 
