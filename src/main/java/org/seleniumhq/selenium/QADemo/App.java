@@ -7,9 +7,12 @@ package org.seleniumhq.selenium.QADemo;
 public class App 
 {
 	public void sum(int x,int y){
-		//sdasdsad
-		///sadasdas
+
 		int divide=x/y;
+		int sum=x+y;
+		int minus=x-y;
+		int multiply=x*y;
+
 	}
     public static void main( String[] args )
     {
