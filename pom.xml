@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.seleniumhq.selenium</groupId>
+  <groupId>selenium</groupId>
   <artifactId>QADemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
@@ -22,20 +22,9 @@
     <scope>test</scope>
 </dependency>
 <dependency>
-    <groupId>org.testng</groupId>
-    <artifactId>testng</artifactId>
-    <version>6.14.3</version>
-    <scope>test</scope>
-</dependency>
-<dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-server</artifactId>
     <version>3.12.0</version>
-</dependency>
-<dependency>
-<groupId>org.apache.poi</groupId>
-<artifactId>poi</artifactId>
-<version>4.1.1</version>
 </dependency>
   </dependencies>
 </project>
