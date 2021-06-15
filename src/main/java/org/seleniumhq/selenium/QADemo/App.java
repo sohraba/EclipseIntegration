@@ -8,7 +8,7 @@ public class App
 {
 	public void sum(int x,int y){
 
-		int divide=x/y;
+		int divide1=x/y;
 		int sum=x+y;
 		int minus=x-y;
 		int multiply=x*y;
