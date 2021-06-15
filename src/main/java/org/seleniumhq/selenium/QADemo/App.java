@@ -9,6 +9,7 @@ public class App
 	public void sum(int x,int y){
 		//sdasdsad
 		///sadasdas
+		int divide=x/y;
 	}
     public static void main( String[] args )
     {
