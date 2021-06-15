@@ -12,6 +12,7 @@ public class App
 		int sum=x+y;
 		int minus=x-y;
 		int multiply=x*y;
+		int arith=x*y;
 
 	}
     public static void main( String[] args )
